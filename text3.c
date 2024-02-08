@@ -2,4 +2,5 @@
 #include<conio.h>
 void main(){
      printf("hi git");
+     printf("hi vscode");
 }
